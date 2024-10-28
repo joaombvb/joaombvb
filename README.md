@@ -8,6 +8,7 @@
 </p>
 
 <!-- About Me -->
+<h3 align="center">SOBRE MIM</h3>
 <p align="center">
 <b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
 <b>📚 Atualmente estudando Desenvolvimento Web</b><br>
@@ -15,6 +16,7 @@
 </p>
 
 <!-- Skills -->
+<h3 align="center">SKILLS</h3>
 <p align="center">
 <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,6 +26,7 @@
 </p>
 
 <!-- GitHub Stats -->
+<h3 align="center">GITHUB STATS</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaombvb&show_icons=true&theme=dark" width="35%" alt="GitHub Stats">
 <!-- Most Used Languages -->
@@ -31,6 +34,7 @@
 </p>
 
 <!-- Social Links -->
+<h3 align="center">SOCIAL LINKS</h3>
 <p align="center">
 <a href="https://instagram.com/joaombvb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:joaombvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -39,6 +43,7 @@
 </p>
 
 <!-- Visitors Badge -->
+<h3 align="center">VISITANTES</h3>
 <p align="center">
 <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=joaombvb.joaombvb">
 </p>
