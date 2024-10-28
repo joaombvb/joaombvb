@@ -25,9 +25,9 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaombvb&show_icons=true&theme=dark" width="50%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=joaombvb&show_icons=true&theme=dark" width="35%" alt="GitHub Stats">
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaombvb&layout=compact&theme=dark" width="38%" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaombvb&layout=compact&theme=dark" width="31%" alt="Most Used Languages">
 </p>
 
 <!-- Social Links -->
@@ -41,11 +41,6 @@
 <!-- Visitors Badge -->
 <p align="center">
 <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=joaombvb.joaombvb">
-</p>
-
-<!-- Snake Game -->
-<p align="center">
-<img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/joaombvb/joaombvb/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- Footer Wave-->
