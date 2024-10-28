@@ -1,31 +1,54 @@
-<h1>Olá! Eu sou o João Marcelo Vilas Boas 👋🏾</h1> 
-
-<h3>Vamos nos conectar!</h3>
-<div> 
-  <a href = "mailto:joaombvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaombvb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br>
-
-<a href="https://github.com/joaombvb/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaombvb" />
+<!-- Header Wave -->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9EC8B9&section=header&reversal=true"/>
+<!-- Typing SVG and Introduction -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=9EC8B9&background=092635&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG">
 </a>
-<a href="https://github.com/joaombvb/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaombvb&layout=donut" />
-</a>
-<br>
-<h3>Stacks:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Joaombvb-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joaombvb-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joaombvb-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joaombvb-figma" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
-  <img align="center" alt="Joaombvb-git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
-</div>
-<br>
-<div>  
-  <img width=792 align="center" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-</div>
+</p>
 
+<!-- About Me -->
+<p align="center">
+<b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
+<b>📚 Atualmente estudando Desenvolvimento Web</b><br>
+<b>💻 Linguagens que estou utilizando: HTML, CSS e JavaScript</b>
+</p>
 
+<!-- Skills -->
+<p align="center">
+<img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Figma" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</p>
 
+<!-- GitHub Stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joaombvb&show_icons=true&theme=dark" width="50%" alt="GitHub Stats">
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaombvb&layout=compact&theme=dark" width="38%" alt="Most Used Languages">
+</p>
+
+<!-- Social Links -->
+<p align="center">
+<a href="https://instagram.com/joaombvb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:joaombvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/joaombvb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://wa.me/5598991924002" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
+<!-- Visitors Badge -->
+<p align="center">
+<img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=joaombvb.joaombvb">
+</p>
+
+<!-- Snake Game -->
+<p align="center">
+<img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/joaombvb/joaombvb/output/github-contribution-grid-snake.svg">
+</p>
+
+<!-- Footer Wave-->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9EC8B9&section=footer&reversal=true"/>
+</p>
