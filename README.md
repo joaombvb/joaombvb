@@ -11,7 +11,7 @@
 <h3 align="center">SOBRE MIM</h3>
 <p align="center">
 <b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
-<b>📚 Atualmente estudando Desenvolvimento Web</b><br>
+<b>📚 Atualmente estudando React, Node, Next e TypeScript</b><br>
 <b>💻 Linguagens que estou utilizando: HTML, CSS e JavaScript</b>
 </p>
 
